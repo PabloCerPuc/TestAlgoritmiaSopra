@@ -1,0 +1,41 @@
+
+Actualmente vivo en Valencia, cerca de la UPV, más específicamente en Avenida Cataluña, 20. Dispongo de paradas de bus y metro a menos de 8 minutos por lo que en caso de que fuera necesario acudir a las oficinas, esto no supondría ningún problema.
+
+
+Durante la carrera, he utilizado activamente Ubuntu en los ordenadores proporcionados por la universidad, lo que me ha permitido familiarizarme con el sistema operativo Linux, su entorno de terminal y la administración básica del sistema, incluyendo la instalación de software, la gestión de permisos de archivos y la monitorización de recursos del sistema.
+También tuve la oportunidad de utilizar Docker en una asignatura, lo que me permitió adquirir experiencia práctica con la tecnología.
+Y respecto a Kubernetes, aunque no llegué a utilizarlo directamente en mis proyectos académicos, sí tuvimos una introducción teórica a su funcionamiento y capacidades.
+
+
+
+Mi experiencia en la programación ha sido principalmente académica hasta ahora, habiendo trabajado en varios proyectos como parte de mi currículo universitario. Uno de los proyectos más destacados en los que he participado fue una cátedra, la cual, al final de ella, debíamos concursar en una hackathon, ésta trataba de la integración de aplicaciones utilizando Anypoint Studio de MuleSoft. Este proyecto implicó el uso de APIs REST y el lenguaje RAML para la creación de APIs. Este proyecto está publicado en mi repositorio de GitHub, también lo están algunos otros proyectos de la universidad(no hay mucha cosa debido a que no fui consciente que podía subirlos a github hasta este año).
+En cuanto a mis habilidades, me siento cómodo trabajando tanto en frontend como en backend. Sin embargo, si tuviera que elegir, me inclino ligeramente más hacia el frontend debido a mi interés en la interacción directa con el usuario y el diseño de interfaces.
+
+
+Mi conocimiento en Git está en un nivel básico, pero sólido. Tengo experiencia con los comandos fundamentales que permiten gestionar un repositorio local y subir cambios a un repositorio remoto.
+
+
+Mi experiencia práctica en testing es limitada a pesar de haber adquirido conocimiento teórico sobre diferentes métodos de éste.
+
+
+He tenido, durante la carrera, la oportunidad de profundizar en el desarrollo web. Entre otros proyectos, en uno de ellos, diseñé y desarrollé una página web completa que incluía un sistema de autenticación de usuarios para garantizar la seguridad y la privacidad, mecanismos de sesión a través de cookies para mantener el estado del usuario durante la navegación y llamadas AJAX.
+
+
+Al haber trabajado varias veces en la carrera con bases de datos, he aprendido a usar SQL(diseñando y manipulando bases de datos relacionales), sin embargo, no tengo nada de experiencia ni con noSQL ni con motores de persistencia.
+
+
+Soy Pablo Cerdá, estudiante de 4 de carrera de informática, soy de Murcia pero actualmente vivo en Valencia, debido a que decidí estudiar aquí(decisión de la cual no me arrepiento ya que he hecho muy buenas amistades y la ciudad me está gustando mucho). Me fascina la tecnología y me llama la atención su amplio rango de usos en distintos sectores. Me considero una persona que siempre quiere seguir aprendiendo, no tan solo en ámbitos tecnológicos, si no, por ejemplo, aprender a tocar un instrumento nuevo(actualmente, estoy aprendiendo a tocar el piano de manera autodidacta)...; esto se debe a que me gustan los desafíos. 
+Fuera del ámbito académico y profesional, me encanta pasar tiempo al aire libre, practicar senderismo, pádel y gimnasio, intentando superarme a mí mismo día a día. Estas actividades me ayudan a mantenerme saludable y reducir los niveles de estrés.
+También soy un apasionado de la música, como he dicho estoy aprendiendo a tocar el piano; otros instrumentos que sé tocar son el contrabajo y el ukelele. No tan solo me gusta tocar música, sino, también escucharla(sobre todo música del extranjero), esto me ha hecho obtener un buen nivel de inglés.
+
+
+Todavía no tengo nada de experiencia laboral aunque estoy ansioso de tenerla.
+
+
+El único proyecto personal que tengo, a parte de los realizados en la universidad, es uno que presenté para una hackathon a finales del año pasado. Éste se basaba en la integración de aplicaciones mediante Anypoint Studio y AWS entre otras herramientas. Fue un proyecto que me apasionó mucho hacer, ya que la integración de aplicaciones es algo fundamental actualmente, al igual que el cloud. Estoy muy satisfecho de haber participado en ese proyecto, ya que, aunque de primeras le tenía algo de respeto porque se trataba de algo novedoso para mí, aprendí mucho y de temas muy interesantes.
+
+
+Porque aportaría juventud, la cual, en mi caso viene de la mano con mi gran entusiasmo por aprender. Tengo buena capacidad para trabajar en equipo(la cual se ha fortalecido tras diversas experiencias académicas), soy colaborativo y no conflictivo, lo cual considero clave para un funcionamiento positivo del equipo y para las situaciones en las que hay estrés o plazos de entregas ajustados. Finalmente, otra habilidad que podría ser clave en caso de trabajar con vosotros es que soy una persona que se adapta fácil a nuevos entornos.
+
+
+Otra característica sobre mí es la creatividad, la cual plasmo, no solo, en ámbitos informáticos como la creación de código, sino también dibujando, con la música...
